@@ -1,2 +1,2 @@
-# Dio.StarWars
-Pratica em banco de dados
+# Dio Desafio SQL Gerenciamento de naves
+
